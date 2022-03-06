@@ -1,5 +1,5 @@
-## A Journey to Disney
+## A Journey to Disney 🚀
 
-### Why am I aiming Software Engineer in Diseny?
+### Why am I aiming Software Engineer in Diseny? 🧑🏻‍💻
 
-### What should I do for starting my career in Disney as a Software Engineer?
+### What should I do for starting my career in Disney as a Software Engineer? 📕
