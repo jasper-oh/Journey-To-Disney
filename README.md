@@ -5,5 +5,8 @@
 ### What should I do for starting my career in Disney as a Software Engineer? 📕
 
 [Disney Career](https://jobs.disneycareers.com/technology)
+-> First, I look up the Vancouver's job opportunities.
 
 So, Organizing the priority task will be ...
+
+1.
