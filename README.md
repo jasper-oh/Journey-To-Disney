@@ -11,6 +11,8 @@
 -> Production Technology engineer
 
 ### What is the Production Technology Engineer?
+- Get the opportunity to work on the full stack of our tools, 
+
 
 So, Organizing the priority task will be ...
 
