@@ -13,7 +13,7 @@
 ### What is the Production Technology Engineer?
 - Get the opportunity to work on the full stack of our tools, from developing the underlying algorithms, through to building intuitive & artist-friendly interfaces. 
 
-- 
+- Work in a collaborative, cross-site environment in the pursuit of simple and performant solutions to complex problems.
 
 
 So, Organizing the priority task will be ...
