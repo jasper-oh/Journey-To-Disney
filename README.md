@@ -15,7 +15,9 @@
 
 - Work in a collaborative, cross-site environment in the pursuit of simple and performant solutions to complex problems.
 
+- The team works hand in hand with artists to make the tools we need for the incredibly complex and rich characters and environents featured in our movies.
 
+- 
 So, Organizing the priority task will be ...
 
 1.
