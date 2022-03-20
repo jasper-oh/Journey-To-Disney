@@ -17,7 +17,9 @@
 
 - The team works hand in hand with artists to make the tools we need for the incredibly complex and rich characters and environents featured in our movies.
 
-- 
+- Develop new artist-centric interaction models using the latest hardware and technologies.
+
+
 So, Organizing the priority task will be ...
 
 1.
