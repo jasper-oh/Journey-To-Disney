@@ -19,6 +19,10 @@
 
 - Develop new artist-centric interaction models using the latest hardware and technologies.
 
+### Key Qualification for being a part of Production Technology Engineer team
+
+- Professional experience in a software developer role
+- Proficiency in C++, strong software design and engineering skills
 
 So, Organizing the priority task will be ...
 
