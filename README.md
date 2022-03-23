@@ -23,7 +23,7 @@
 
 - Professional experience in a software developer role
 - Proficiency in C++, strong software design and engineering skills
-
+- Excellent problem solving, troubleshooting, and debugging skills
 
 So, Organizing the priority task will be ...
 
