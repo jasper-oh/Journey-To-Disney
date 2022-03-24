@@ -24,7 +24,7 @@
 - Professional experience in a software developer role
 - Proficiency in C++, strong software design and engineering skills
 - Excellent problem solving, troubleshooting, and debugging skills
-
+- Ability to develop and optimize alforithms for efficiency and scalability.
 So, Organizing the priority task will be ...
 
 1.
