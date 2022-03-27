@@ -27,6 +27,9 @@
 - Ability to develop and optimize alforithms for efficiency and scalability.
 - Exemplary communication, including the ability to engage with artists to understand their requirements and formulate practical solutions.
 - Degree in Computer Science or related professional experience.
+
+### Bonus Qualification 
+
 So, Organizing the priority task will be ...
 
 1.
