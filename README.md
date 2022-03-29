@@ -30,7 +30,7 @@
 
 ### Bonus Qualification 
 
--
+- Experience working in an Animation production environment
 
 So, Organizing the priority task will be ...
 
