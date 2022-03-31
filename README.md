@@ -31,6 +31,7 @@
 ### Bonus Qualification 
 
 - Experience working in an Animation production environment.
+- Expertise in performance tuning and writing/debugging of parallel and vectorized code
 
 So, Organizing the priority task will be ...
 
