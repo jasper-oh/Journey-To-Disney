@@ -22,8 +22,8 @@
 ### Key Qualification for being a part of Production Technology Engineer team
 
 - Professional experience in a software developer role.
-- Proficiency in C++, strong software design and engineering skills
-- Excellent problem solving, troubleshooting, and debugging skills
+- Proficiency in C++, strong software design and engineering skills.
+- Excellent problem solving, troubleshooting, and debugging skills.
 - Ability to develop and optimize alforithms for efficiency and scalability.
 - Exemplary communication, including the ability to engage with artists to understand their requirements and formulate practical solutions.
 - Degree in Computer Science or related professional experience.
@@ -31,7 +31,7 @@
 ### Bonus Qualification 
 
 - Experience working in an Animation production environment.
-- Expertise in performance tuning and writing/debugging of parallel and vectorized code
+- Expertise in performance tuning and writing/debugging of parallel and vectorized code.
 
 So, Organizing the priority task will be ...
 
