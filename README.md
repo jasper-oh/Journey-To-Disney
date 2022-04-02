@@ -32,7 +32,7 @@
 
 - Experience working in an Animation production environment.
 - Expertise in performance tuning and writing/debugging of parallel and vectorized code.
-- Other expertise: Maya, Houdini, USD, OpenGL, QT, Python
+- Other expertise: Maya, Houdini, USD, OpenGL, QT, Python.
 
 So, Organizing the priority task will be ...
 
