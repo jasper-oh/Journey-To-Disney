@@ -33,6 +33,7 @@
 - Experience working in an Animation production environment.
 - Expertise in performance tuning and writing/debugging of parallel and vectorized code.
 - Other expertise: Maya, Houdini, USD, OpenGL, QT, Python.
+- Post-graduate degree with specialization in Computer Science, Graphics, or comparable industry experience in a research, studio, or games enviornment.
 
 So, Organizing the priority task will be ...
 
