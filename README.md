@@ -35,6 +35,6 @@
 - Other expertise: Maya, Houdini, USD, OpenGL, QT, Python.
 - Post-graduate degree with specialization in Computer Science, Graphics, or comparable industry experience in a research, studio, or games enviornment.
 
-So, Organizing the priority task will be ...
+### So, Organizing the priority task will be ...
 
 1.
