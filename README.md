@@ -37,4 +37,4 @@
 
 ### So, Organizing the priority task will be ...
 
-1.
+1. Be professional in C++ field
