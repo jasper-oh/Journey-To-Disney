@@ -37,5 +37,6 @@
 
 ### So, Organizing the priority task will be ...
 
-1. Be professional in C++ field
-2. Getting additional points, just learn basic info about
+0. Be professional in C++ field.
+1. Be professional in Python.
+2. Getting additional points, just learn basic info aboutMaya, Houdini, USD, OpenGL, QT.
