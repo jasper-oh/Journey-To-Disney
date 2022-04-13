@@ -2,7 +2,7 @@
 
 ### Why am I aiming Software Engineer in Diseny? 🧑🏻‍💻
 
-i don't want to start this story like, "Since I was a kid, I watched a lot of disney movies and these experience inspired me..". Even if this is correct, I think 98% of candidates using this sentence for their job interviews.
+i don't want to start this story like, "Since I was a kid, I watched a lot of disney movies and these experience inspired me..". Even if this is correct, I think 98% of candidates using this sentence for their job interviews. So I need to figure out the unique reason why I want to be a part of Disney.
 
 ### What should I do for starting my career in Disney as a Software Engineer? 📕
 
