@@ -42,3 +42,9 @@ i don't want to start this story like, "Since I was a kid, I watched a lot of di
 0. Be professional in C++ field.
 1. Be professional in Python.
 2. Getting additional points, just learn basic info aboutMaya, Houdini, USD, OpenGL, QT. -> For smooth communication with graphic designer.
+
+### This repo will be dealing ..
+
+0. C++ Studying field with algorithms 
+1. Pyhton algorithms
+2. Etc resources related with Dise
