@@ -45,6 +45,6 @@ i don't want to start this story like, "Since I was a kid, I watched a lot of di
 
 ### This repo will be dealing ..
 
-0. C++ Studying field with algorithms 
-1. Pyhton algorithms
-2. Etc resources related with Dise
+0. C++ Studying field with algorithms.
+1. Pyhton algorithms.
+2. Etc resources related with Disney.
