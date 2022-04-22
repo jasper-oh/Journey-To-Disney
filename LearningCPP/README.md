@@ -12,4 +12,4 @@
 
 ### Goals
 - Finish the video
-    - Practice every day
+    - Practice every day.
