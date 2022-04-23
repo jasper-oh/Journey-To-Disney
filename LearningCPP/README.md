@@ -14,5 +14,6 @@
 ### Goals
 - Finish the video
     - Practice every day.
+- Everyday solve the algorithms questions
 
 
