@@ -15,5 +15,5 @@
 - Finish the video
     - Practice everyday.
 - Everyday solve the algorithms questions.
-
+- Search how C++ is using in Graphic Design industries like Disney
 
