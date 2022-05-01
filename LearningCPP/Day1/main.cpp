@@ -10,9 +10,12 @@ int otherone() {
     std::cout << result << std::endl;
 }
 
-/* fold-operator:
+/*
+ * fold-operator:
  *  <=
- *  relational 
+ *  relational-expression:
+ *  relational-expression <= shift-expression
+ *  operator:
+ *  <=
  *
- *
- * */
+ */
