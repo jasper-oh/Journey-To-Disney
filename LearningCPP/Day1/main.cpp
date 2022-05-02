@@ -17,5 +17,4 @@ int otherone() {
  *  relational-expression <= shift-expression
  *  operator:
  *  <=
- *
  */
