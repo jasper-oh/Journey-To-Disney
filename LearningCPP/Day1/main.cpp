@@ -1,13 +1,13 @@
 #include <iostream>
 
-void otherone() {
+void otherOne() {
     auto result = (10 <= 20 ) > 0;
     std::cout << result << std::endl;
 }
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
-    otherone();
+    otherOne();
     return 0;
 }
 
