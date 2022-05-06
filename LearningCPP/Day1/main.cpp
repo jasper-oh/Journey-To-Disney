@@ -6,8 +6,9 @@ void otherOne() {
 }
 
 void divideByZero(){
-    int value = 7/0;
+    int value = 9/0;
     std::cout << "value : " << value << std::endl;
+//    1435483248
 }
 
 int main() {
