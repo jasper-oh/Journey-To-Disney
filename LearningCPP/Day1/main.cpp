@@ -6,9 +6,10 @@ void otherOne() {
 }
 
 void divideByZero(){
-    int value = 9/0;
+    float value = 1435483248/0.0;
     std::cout << "value : " << value << std::endl;
-//    1435483248
+//  why all the number divided by 0 make the same value : 1435483248?
+//  I think the reason is by a integer, I changed to float than, value changed to inf.
 }
 
 int main() {
