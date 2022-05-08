@@ -11,11 +11,15 @@ void divideByZero(){
 //  why all the number divided by 0 make the same value : 1435483248?
 //  I think the reason is by a integer, I changed to float than, value changed to inf.
 }
+int sumTwoNumbers(int number1, int number2){
+    return number1 + number2;
+}
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
     otherOne();
     divideByZero();
+    std::cout << sumTwoNumbers(45,45) << std::endl;
     return 0;
 }
 
