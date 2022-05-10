@@ -22,6 +22,7 @@ int main() {
     std::cout << sumTwoNumbers(45,45) << std::endl;
 
     //that is the new way to make statements.
+    //So what is the difference with "=" and make "{}"
     int first_number {3};
     int second_number {7};
     std::cout << first_number + second_number <<std::endl;
