@@ -17,6 +17,7 @@ int sumTwoNumbers(int number1, int number2){
 int firstNumber{
     3
 };
+
 int main() {
     std::cout << "Hello, World!" << std::endl;
     otherOne();
