@@ -8,6 +8,8 @@
  * 2. std::cerr -> Printing errors to the console
  * 3. std::clog -> printing log messages to the console
  * 4. std::endl -> why didn't he mention about it?
+ *
+ * Printed sequences are change first, log message appear and then err message appear.
  */
 
 void use_differnet_stream(){
