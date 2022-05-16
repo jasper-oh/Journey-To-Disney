@@ -16,16 +16,28 @@ void use_differnet_stream(){
     std::cout << "Hello World!" << std::endl;
     std::cerr << "std::cerr output : Something went wrong" << std::endl;
     std::clog << "std::clog output : This is a log message" << std::endl;
-
 }
 
+
 void input_output(){
+    int age;
+    std::string name;
+
+    std::cout << "Please type in your Last Name : " << std::endl;
+    std::cin >> name;
+
+    std::cout << "Please type in your age : " << std::endl;
+    std::cin >> age;
+
+    std::cout << "Hello " << name << "! you are " << age << " years old" << std::endl;
 
 }
 
 int main() {
 //    std::cout << "Hello, World!" << std::endl;
 
-    use_differnet_stream();
+//    use_differnet_stream();
+    input_output();
     return 0;
+
 }
