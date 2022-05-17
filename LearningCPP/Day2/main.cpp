@@ -5,7 +5,7 @@
  *
  * 0. std::cout -> Printing data to the console (terminal)
  * 1. std::cin -> Reading data from the terminal
- * 2. std::cerr -> Printing errors to the console
+ * 2. std::cerr -> Printing errors to the console the data flow operator is >>
  * 3. std::clog -> printing log messages to the console
  * 4. std::endl -> why didn't he mention about it?
  *
@@ -30,8 +30,16 @@ void input_output(){
     std::cin >> age;
 
     std::cout << "Hello " << name << "! you are " << age << " years old" << std::endl;
-
 }
+
+void input_output_2(){
+    int age;
+    std::string name;
+    std::cout << "Please type in your Last name and age, seperated by spaces : " << std::endl;
+    std::cin >> name >> age ; //input name and age
+    std::cout << "Hello " << name << "! you are " << age << " years old" << std::endl;
+}
+
 
 int main() {
 //    std::cout << "Hello, World!" << std::endl;
