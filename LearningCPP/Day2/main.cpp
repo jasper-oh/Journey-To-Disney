@@ -57,6 +57,7 @@ int main() {
 //    use_different_stream();
     input_output();
     input_output_2();
+    input_output_3();
     return 0;
 
 }
