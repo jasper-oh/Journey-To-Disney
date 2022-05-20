@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 
 /*
  * Different types of stream
@@ -58,6 +59,7 @@ int main() {
     input_output();
     input_output_2();
     input_output_3();
+
     return 0;
 
 }
