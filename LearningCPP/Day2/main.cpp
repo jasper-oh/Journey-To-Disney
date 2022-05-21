@@ -52,6 +52,15 @@ void input_output_3(){
     std::cout << "Hello " << full_name << "! You are " << age << " years old." << std::endl;
 }
 
+void input_output_example(){
+    int age1;
+    std::string name;
+    std::cout << "Please type your name and age : " << std::endl;
+    std::cin >> name;
+    std::cin >> age1;
+    std::cout << "Hello " << name << "! You are " << age1 << " years old." << std::endl;
+}
+
 int main() {
 //    std::cout << "Hello, World!" << std::endl;
 
