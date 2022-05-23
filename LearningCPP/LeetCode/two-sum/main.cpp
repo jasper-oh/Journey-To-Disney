@@ -21,8 +21,8 @@ public:
 
 
 int main() {
-
+    std::vector<int> nums;
     Solution sol;
-    sol.twoSum( {2,7,11,15} , 9);
+    sol.twoSum( nums , 9);
     return 0;
 }
