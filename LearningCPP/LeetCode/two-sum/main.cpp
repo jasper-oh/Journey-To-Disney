@@ -1,6 +1,8 @@
 #include <iostream>
 #include <vector>
 
+using namespace std;
+
 
 class Solution {
 public:
@@ -27,6 +29,8 @@ int main() {
     nums.push_back(7);
     nums.push_back(11);
     nums.push_back(15);
-    sol.twoSum( nums , 9);
+
+    for (int x : sol.twoSum(nums, 9))
+         cout << x << " ";
     return 0;
 }
