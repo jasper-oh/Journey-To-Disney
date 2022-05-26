@@ -33,7 +33,7 @@ int main() {
          cout << x << " ";
 
     for ( int i = 0 ; i < sol.twoSum(nums,9).size() ; i++){
-        cout << sol.twoSum(nums, 9).push_back(i)
+        std::cout << sol.twoSum(nums, 9).emplace_back(i);
     };
     return 0;
 }
