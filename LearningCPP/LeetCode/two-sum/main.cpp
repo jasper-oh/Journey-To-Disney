@@ -37,3 +37,6 @@ int main() {
     };
     return 0;
 }
+
+// In this solution, I can learn about class, for loop, and vector. It just a small step for learning c++, but
+// steady improve is my goal!
