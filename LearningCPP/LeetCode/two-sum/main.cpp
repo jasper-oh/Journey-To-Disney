@@ -4,7 +4,7 @@
 using namespace std;
 
 
-class Solution {
+class Solution_1 {
 public:
     std::vector<int> twoSum(std::vector<int>& nums, int target){
         std::vector<int> vect;
@@ -21,9 +21,16 @@ public:
     }
 };
 
+class Solution_2 {
+public:
+    vector<int> twoSum(vector<int>& nums, int target){
+
+    }
+};
 
 int main() {
-    Solution sol;
+    Solution_1 sol_1;
+    Solution_2 sol_2;
     std::vector<int> nums;
     nums.push_back(2);
     nums.push_back(7);
