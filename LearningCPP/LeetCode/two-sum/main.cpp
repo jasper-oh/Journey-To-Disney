@@ -1,5 +1,6 @@
 #include <iostream>
 #include <vector>
+#include <unordered_map>
 
 using namespace std;
 
@@ -20,11 +21,24 @@ public:
         return vect;
     }
 };
-
+/*
+ * Ok, Solution_2 is using map for solve this problem!
+ */
 class Solution_2 {
 public:
     vector<int> twoSum(vector<int>& nums, int target){
+        vector<int> res;
+        unordered_map<int, int> mp;
 
+        for(int i=0; i <  nums.size(); i++){
+            if(mp.find(target - nums[i]) != mp.end()){
+                res.emplace_back(i);
+                res.emplace_back(mp[target-nums[i]]);
+                return res;
+            }
+            mp[nums[i]] = i;
+        }
+        return res;
     }
 };
 
