@@ -53,7 +53,7 @@ int main() {
     for (int x : sol_2.twoSum(nums, 9))
          cout << x << " ";
 
-    
+
     for ( int i = 0 ; i < sol_1.twoSum(nums,9).size() ; i++){
         std::cout << sol_1.twoSum(nums, 9).emplace_back(i) << " ";
     };
