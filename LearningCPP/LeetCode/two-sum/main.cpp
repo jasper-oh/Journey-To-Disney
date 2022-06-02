@@ -45,11 +45,15 @@ public:
 int main() {
     Solution_1 sol_1;
     Solution_2 sol_2;
+
+    int nums_array [] = {2,7,11,15};
+
     std::vector<int> nums;
-    nums.push_back(2);
-    nums.push_back(7);
-    nums.push_back(11);
-    nums.push_back(15);
+    
+
+    for (int x : nums_array)
+        nums.push_back(x);
+
     for (int x : sol_2.twoSum(nums, 9))
          cout << x << " ";
 
@@ -62,3 +66,4 @@ int main() {
 
 // In this solution, I can learn about class, for loop, and vector. It just a small step for learning c++, but
 // steady improve is my goal!
+
