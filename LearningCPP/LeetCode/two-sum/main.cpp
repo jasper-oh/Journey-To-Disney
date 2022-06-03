@@ -42,6 +42,23 @@ public:
     }
 };
 
+class learning_unordered_map{
+public:
+    unordered_map<int, char> unmap(){
+        unordered_map<int, char> map1;
+        unordered_map<int, char>::iterator cursor;
+        map1[1] = 'a';
+        map1[2] = 'b';
+        cout << "Key\tELEMENT" << endl;
+        for (cursor = map1.begin(); cursor != map1.end(); cursor++){
+            cout << cursor -> first;
+            cout << '\t' << cursor -> second << '\n' << endl;
+        }
+
+
+    }
+};
+
 int main() {
     Solution_1 sol_1;
     Solution_2 sol_2;
@@ -49,7 +66,7 @@ int main() {
     int nums_array [] = {2,7,11,15};
 
     std::vector<int> nums;
-    
+
 
     for (int x : nums_array)
         nums.push_back(x);
