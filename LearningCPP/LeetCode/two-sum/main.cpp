@@ -62,22 +62,22 @@ public:
 int main() {
     Solution_1 sol_1;
     Solution_2 sol_2;
+    learning_unordered_map lum;
+//
+//    int nums_array [] = {2,7,11,15};
+//
+//    std::vector<int> nums;
+//    for (int x : nums_array)
+//        nums.push_back(x);
+//    for (int x : sol_2.twoSum(nums, 9))
+//         cout << x << " ";
+//    for ( int i = 0 ; i < sol_1.twoSum(nums,9).size() ; i++){
+//        std::cout << sol_1.twoSum(nums, 9).emplace_back(i) << " ";
+//    };
+    lum.unmap();
 
-    int nums_array [] = {2,7,11,15};
-
-    std::vector<int> nums;
 
 
-    for (int x : nums_array)
-        nums.push_back(x);
-
-    for (int x : sol_2.twoSum(nums, 9))
-         cout << x << " ";
-
-
-    for ( int i = 0 ; i < sol_1.twoSum(nums,9).size() ; i++){
-        std::cout << sol_1.twoSum(nums, 9).emplace_back(i) << " ";
-    };
     return 0;
 }
 
