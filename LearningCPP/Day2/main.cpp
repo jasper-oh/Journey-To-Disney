@@ -1,6 +1,9 @@
 #include <iostream>
 #include <string>
 
+using namespace std;
+
+
 /*
  * Different types of stream
  *
@@ -59,6 +62,16 @@ void input_output_example(){
     std::cin >> name;
     std::cin >> age1;
     std::cout << "Hello " << name << "! You are " << age1 << " years old." << std::endl;
+}
+
+namespace abc{
+    int variable;
+};
+
+void understanding_scope_resolution_operator(){
+    cin >> abc::variable;
+
+//    :: means like.. it can be used to access class function and namespaces
 }
 
 int main() {
