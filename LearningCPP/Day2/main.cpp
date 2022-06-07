@@ -74,6 +74,19 @@ void understanding_scope_resolution_operator(){
 //    :: means like.. it can be used to access class function and namespaces
 }
 
+class foo{
+public:
+    foo();
+    void bar();
+};
+
+foo::foo(){
+    //Implement the constructor
+}
+void foo::bar(){
+    // Implement bar
+}
+// :: can be using like this
 int main() {
 //    std::cout << "Hello, World!" << std::endl;
 
