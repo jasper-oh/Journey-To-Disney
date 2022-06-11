@@ -3,6 +3,11 @@
 
 using namespace std;
 
+/*
+ * Today's agenda
+ * 0. Understanding Vector, and connected method
+ * */
+
 class Solution {
 public:
     int maxProfit(vector<int>& prices){
@@ -23,6 +28,8 @@ int main() {
     cout << sol.maxProfit(prices) << " ";
     return 0;
 }
+
+
 
 
 
