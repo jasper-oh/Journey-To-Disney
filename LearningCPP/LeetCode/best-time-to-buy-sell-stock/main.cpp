@@ -20,12 +20,21 @@ public:
 void understanding_vector(){
     vector<int> v = {1,2,3};
 
+    v.emplace_back(4);
+    v.emplace_back(5);
+
+    for(int x = 0 ; x < v.size() ; x ++){
+        cout << v[x] << " ";
+    }
+
+    // other way to show the vector's inside?
+
 }
 
 
 int main() {
 
-    
+    understanding_vector();
 //    Solution sol;
 //    vector<int> prices {7,1,5,3,6,4};
 //
