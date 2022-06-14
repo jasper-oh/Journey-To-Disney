@@ -24,10 +24,12 @@ void understanding_vector(){
     v.emplace_back(5);
 
     for(int x = 0 ; x < v.size() ; x ++){
-        cout << v[x] << " ";
+        cout << v[x] << " " << endl;
     }
 
     // other way to show the vector's inside?
+    for (auto it = v.begin(); it != v.end(); ++it)
+        cout << *it << endl;
 
 }
 
