@@ -24,12 +24,18 @@ void understanding_vector(){
     v.emplace_back(5);
 
     for(int x = 0 ; x < v.size() ; x ++){
-        cout << v[x] << " " << endl;
+        cout << v[x] << " ";
     }
 
+
+    // Insert the elements in the vector!
+    v.insert(v.end() , 3 , 100);
+
     // other way to show the vector's inside?
-    for (auto it = v.begin(); it != v.end(); ++it)
-        cout << *it << endl;
+    for (auto it = v.begin(); it != v.end(); ++it) {
+        cout << *it << " ";
+    }
+
 
 }
 
