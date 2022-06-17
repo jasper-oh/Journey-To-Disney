@@ -19,7 +19,7 @@ public:
 
 void understanding_vector(){
     vector<int> v = {1,2,3};
-    vector<int> v1 = {4,5,6};
+    vector<int> v1 = {10,11,12};
 
     v.emplace_back(4);
     v.emplace_back(5);
@@ -34,7 +34,7 @@ void understanding_vector(){
     v.insert(v.end() , 3 , 100);
 
     // Insert another vector
-
+    v.insert(v.end() , v1.begin() , v1.end());
 
 
     // other way to show the vector's inside?
