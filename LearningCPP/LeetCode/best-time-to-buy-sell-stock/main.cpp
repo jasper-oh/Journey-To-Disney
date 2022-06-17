@@ -36,6 +36,8 @@ void understanding_vector(){
     // Insert another vector
     v.insert(v.end() , v1.begin() , v1.end());
 
+    // vector.insert(position, first_element, last_element)
+
 
     // other way to show the vector's inside?
     for (auto it = v.begin(); it != v.end(); ++it) {
