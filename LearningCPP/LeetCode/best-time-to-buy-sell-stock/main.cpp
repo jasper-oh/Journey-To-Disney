@@ -9,14 +9,6 @@ using namespace std;
  * 1. insert, delete, emplace_back() .. etc..
  * */
 
-class Solution {
-public:
-    int maxProfit(vector<int>& prices){
-        return 0;
-    }
-
-};
-
 void understanding_vector(){
     vector<int> v = {1,2,3};
     vector<int> v1 = {10,11,12};
@@ -43,9 +35,16 @@ void understanding_vector(){
     for (auto it = v.begin(); it != v.end(); ++it) {
         cout << *it << " ";
     }
-
-
 }
+
+
+class Solution {
+public:
+    int maxProfit(vector<int>& prices){
+        return 0;
+    }
+
+};
 
 
 int main() {
