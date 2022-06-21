@@ -40,6 +40,7 @@ void understanding_vector(){
 
 class Solution {
 public:
+    // put the standard point in profit, and start for loop in first time. 
     int maxProfit(vector<int>& prices){
        int profit = 0;
        int cp = prices[0];
