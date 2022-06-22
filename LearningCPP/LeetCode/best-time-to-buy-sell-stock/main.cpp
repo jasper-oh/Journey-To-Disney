@@ -40,9 +40,10 @@ void understanding_vector(){
 
 class Solution {
 public:
-    // put the standard point in profit, and start for loop in first time. 
+    // put the standard point in profit, and start for loop in first time.
     int maxProfit(vector<int>& prices){
        int profit = 0;
+       // What is the role of the cp !
        int cp = prices[0];
        for(int i=1; i < prices.size() ; i++){
            profit = max(profit, prices[i] - cp);
