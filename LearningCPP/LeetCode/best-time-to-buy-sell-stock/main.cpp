@@ -59,7 +59,10 @@ public:
     int maxProfit(vector<int>& prices){
         int i = 0;
         int j = 1;
+        int n = prices.size();
+        int profit = 0;
         
+
     }
 };
 
