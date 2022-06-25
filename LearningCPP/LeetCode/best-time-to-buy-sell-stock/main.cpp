@@ -61,7 +61,13 @@ public:
         int j = 1;
         int n = prices.size();
         int profit = 0;
-        
+        while(j<n) {
+            int temp = prices[j] - prices[i];
+            if(temp){
+                i = j;
+            }
+        }
+
 
     }
 };
