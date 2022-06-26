@@ -65,10 +65,12 @@ public:
             int temp = prices[j] - prices[i];
             if(temp){
                 i = j;
+            } else {
+                j ++;
+                profit = max(profit, temp);
             }
         }
-
-
+        return profit;
     }
 };
 
