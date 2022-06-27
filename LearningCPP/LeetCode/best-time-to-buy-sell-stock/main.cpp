@@ -54,7 +54,7 @@ public:
 
 };
 
-// This is the easy way to solve the problem and more simple to understand
+// This is the easy way to solve the problem and more simple to understand!
 class AnotherSolution{
 public:
     int maxProfit(vector<int>& prices){
