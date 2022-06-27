@@ -54,6 +54,7 @@ public:
 
 };
 
+// This is the easy way to solve the problem and more simple to understand
 class AnotherSolution{
 public:
     int maxProfit(vector<int>& prices){
@@ -65,10 +66,12 @@ public:
             int temp = prices[j] - prices[i];
             if(temp){
                 i = j;
+            } else {
+                j ++;
+                profit = max(profit, temp);
             }
         }
-
-
+        return profit;
     }
 };
 
