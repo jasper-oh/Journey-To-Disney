@@ -60,6 +60,7 @@ public:
     int maxProfit(vector<int>& prices){
         int i = 0;
         int j = 1;
+        // OK, So j start first, and then i will start! and j will stop first
         int n = prices.size();
         int profit = 0;
         while(j<n) {
