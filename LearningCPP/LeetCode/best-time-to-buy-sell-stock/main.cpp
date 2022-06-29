@@ -69,6 +69,7 @@ public:
                 i = j;
             } else {
                 j ++;
+                // compare with the all the temp profits
                 profit = max(profit, temp);
             }
         }
