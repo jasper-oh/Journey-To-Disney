@@ -1,5 +1,7 @@
 #include <iostream>
 #include <vector>
+#include <cstdlib>
+
 
 using namespace std;
 
@@ -8,6 +10,8 @@ using namespace std;
  * 0. Understanding Vector, and connected method
  * 1. insert, delete, emplace_back() .. etc..
  * */
+
+
 
 void understanding_vector(){
     vector<int> v = {1,2,3};
@@ -83,14 +87,14 @@ public:
 int main() {
 
 //    understanding_vector();
-    Solution sol;
-    vector<int> prices {7,1,5,3,6,4};
-
-    for(int x = 0 ; x < prices.size() ; x ++){
-        cout << prices[x] << " ";
-    };
-
-    cout << sol.maxProfit(prices) << " ";
+//    Solution sol;
+//    vector<int> prices {7,1,5,3,6,4};
+//
+//    for(int x = 0 ; x < prices.size() ; x ++){
+//        cout << prices[x] << " ";
+//    };
+//
+//    cout << sol.maxProfit(prices) << " ";
     return 0;
 }
 
