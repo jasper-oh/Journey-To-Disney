@@ -64,6 +64,7 @@ public:
         int n = prices.size();
         int profit = 0;
         while(j<n) {
+            //While loop will be continued until the j reached to the end
             int temp = prices[j] - prices[i];
             if(temp){
                 i = j;
@@ -76,6 +77,7 @@ public:
         return profit;
     }
 };
+
 
 
 int main() {
