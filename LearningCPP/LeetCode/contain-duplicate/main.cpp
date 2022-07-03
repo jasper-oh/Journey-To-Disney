@@ -40,7 +40,7 @@ int main() {
     vector<int> nums = {1,2,3,4,5};
     Optimized_Solution o_sol;
     o_sol.containsDuplicate(nums);
-    
+
 //    bool something = false;
 //    cout << something << endl;
     cout << sol.containsDuplicate(nums);
