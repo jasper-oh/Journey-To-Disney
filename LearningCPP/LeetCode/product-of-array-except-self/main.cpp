@@ -1,6 +1,18 @@
 #include <iostream>
+#include <vector>
+using namespace std;
+class Solution {
+public:
+    vector<int> productExceptSelf(vector<int>& nums){
+
+    }
+};
+
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    vector<int> nums {1,2,3,4};
+    Solution sol;
+
+    sol.productExceptSelf(nums);
     return 0;
 }
