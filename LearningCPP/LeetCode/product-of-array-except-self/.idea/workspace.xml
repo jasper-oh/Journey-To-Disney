@@ -3,6 +3,11 @@
   <component name="CMakeReloadState">
     <option name="reloaded" value="true" />
   </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="product_of_array_except_self" targetName="product_of_array_except_self" />
+    </generated>
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
@@ -10,7 +15,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82fa482a-2da1-4f89-a28d-15038329cabf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../contain-duplicate/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../contain-duplicate/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contain-duplicate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../contain-duplicate/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +27,12 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
@@ -29,10 +40,15 @@
     <option name="minorVersion" value="1.2" />
   </component>
   <component name="ProjectId" id="2BVZszpWvT7n3Ukc9y4gnkVra1x" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true"
@@ -58,11 +74,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656993424103</updated>
-      <workItem from="1656993425597" duration="1000" />
+      <workItem from="1656993425597" duration="1887000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
