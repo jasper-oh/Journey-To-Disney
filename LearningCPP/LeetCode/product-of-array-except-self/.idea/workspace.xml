@@ -15,9 +15,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82fa482a-2da1-4f89-a28d-15038329cabf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../contain-duplicate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../contain-duplicate/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656993424103</updated>
-      <workItem from="1656993425597" duration="2866000" />
+      <workItem from="1656993425597" duration="3261000" />
     </task>
     <servers />
   </component>
