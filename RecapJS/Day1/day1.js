@@ -28,11 +28,46 @@ remainder = 11 % 3
 
 var a1 = 3
 
-a1 += 12
-
+a1 += 11
 console.log(a1)
 
 a1 -= 11
-
 console.log(a1)
+
+a1 *= 11
+console.log(a1)
+
+a1 /= 11
+console.log(a1)
+
+var firstName = "Alan"
+var lastName = "Turing"
+
+console.log(firstName + lastName)
+
+var myStr = "I am a \"double quoted\" string inside \"double quotes\""
+console.log(myStr)
+
+var thisIsAwesome = `"""''''""""""'''`
+
+/*
+CODE   OUTPUT
+\'     single quote
+\"     double quote
+//     backslash
+\n     new line
+\r     carriage return
+\t     tab
+\b     backspace
+\f     form feed
+*/
+
+myStr = "FirstLine\n\t\\SecondLine\nThirdLine"
+console.log(myStr)
+
+
+
+
+
+
 
