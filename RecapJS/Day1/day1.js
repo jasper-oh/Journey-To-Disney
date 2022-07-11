@@ -65,7 +65,12 @@ CODE   OUTPUT
 myStr = "FirstLine\n\t\\SecondLine\nThirdLine"
 console.log(myStr)
 
+var firstNameLength;
+var firstName1 = "Jasper"
 
+firstNameLength = firstName.length
+
+console.log(firstName1[0])
 
 
 
