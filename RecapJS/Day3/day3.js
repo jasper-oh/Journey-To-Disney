@@ -10,6 +10,9 @@ myLocalScope()
 var outerWear = "T-Shirts"
 
 function myOutfit(){
+    var outerWear = "sweater"
     return outerWear;
 }
-console.log(myOutfit)
+
+//Because this local variable outerWear took precedence over the global variable.
+console.log(myOutfit())
