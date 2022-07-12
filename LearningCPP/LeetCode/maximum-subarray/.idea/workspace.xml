@@ -5,7 +5,7 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="contain_duplicate" targetName="contain_duplicate" />
+      <config projectName="maximum_subarray" targetName="maximum_subarray" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -14,15 +14,14 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="780f6643-d16a-44a9-9701-d424de477417" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../maximum-subarray/.idea/maximum-subarray.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../maximum-subarray/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../maximum-subarray/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../maximum-subarray/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../maximum-subarray/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../maximum-subarray/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../maximum-subarray/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6c304c2d-a1f6-4cb6-b696-4e8b6651d0e6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contain-duplicate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../contain-duplicate/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../product-of-array-except-self/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../product-of-array-except-self/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,17 +44,14 @@
     <option name="majorVersion" value="2022" />
     <option name="minorVersion" value="1.2" />
   </component>
-  <component name="ProjectId" id="2BVUhjZaaMQKRrRVIacy9JwAyR4" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2BrFglVLoymuM4Tz6cfPICfZczx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
@@ -65,7 +61,12 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration name="contain_duplicate" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="contain_duplicate" TARGET_NAME="contain_duplicate" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="contain_duplicate" RUN_TARGET_NAME="contain_duplicate">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="maximum_subarray" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="maximum_subarray" TARGET_NAME="maximum_subarray" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="maximum_subarray" RUN_TARGET_NAME="maximum_subarray">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -74,14 +75,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="780f6643-d16a-44a9-9701-d424de477417" name="Changes" comment="" />
-      <created>1656990866440</created>
+      <changelist id="6c304c2d-a1f6-4cb6-b696-4e8b6651d0e6" name="Changes" comment="" />
+      <created>1657656410849</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1656990866440</updated>
-      <workItem from="1656990868160" duration="3062000" />
-      <workItem from="1657656363276" duration="57000" />
-      <workItem from="1657656433240" duration="2000" />
+      <updated>1657656410849</updated>
+      <workItem from="1657656413051" duration="7000" />
+      <workItem from="1657656434230" duration="580000" />
     </task>
     <servers />
   </component>
@@ -98,8 +98,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

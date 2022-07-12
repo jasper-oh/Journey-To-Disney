@@ -15,6 +15,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82fa482a-2da1-4f89-a28d-15038329cabf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../maximum-subarray/.idea/maximum-subarray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maximum-subarray/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maximum-subarray/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maximum-subarray/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maximum-subarray/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maximum-subarray/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../maximum-subarray/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../contain-duplicate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../contain-duplicate/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,23 +49,18 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="product_of_array_except_self" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="product_of_array_except_self" TARGET_NAME="product_of_array_except_self" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="product_of_array_except_self" RUN_TARGET_NAME="product_of_array_except_self">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -73,6 +76,8 @@
       <option name="presentableId" value="Default" />
       <updated>1656993424103</updated>
       <workItem from="1656993425597" duration="3261000" />
+      <workItem from="1657656361937" duration="58000" />
+      <workItem from="1657656431195" duration="10000" />
     </task>
     <servers />
   </component>
