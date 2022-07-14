@@ -14,16 +14,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c304c2d-a1f6-4cb6-b696-4e8b6651d0e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../contain-duplicate/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../contain-duplicate/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../product-of-array-except-self/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../product-of-array-except-self/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6c304c2d-a1f6-4cb6-b696-4e8b6651d0e6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1657656410849</updated>
       <workItem from="1657656413051" duration="7000" />
-      <workItem from="1657656434230" duration="580000" />
+      <workItem from="1657656434230" duration="1184000" />
     </task>
     <servers />
   </component>
