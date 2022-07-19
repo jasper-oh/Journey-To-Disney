@@ -65,3 +65,26 @@ console.log(nextInLine(testArr,6))
 console.log("After: " + JSON.stringify(testArr))
 
 /* Boolean value */
+
+function welcomeToBooleans(){
+  return false
+}
+
+/* Use Conditional Logic with If statements */
+
+function ourTrueOrFalse(isItTrue){
+  if(isItTrue){
+    return "Yes"
+  }
+  return "No"
+}
+
+function trueOrFalse(wasThatTure){
+  if (wasThatTure){
+    return "Yes"
+  }
+
+  return "No"
+}
+
+console.log(trueOrFalse(true))
