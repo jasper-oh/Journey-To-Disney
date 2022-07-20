@@ -88,3 +88,32 @@ function trueOrFalse(wasThatTure){
 }
 
 console.log(trueOrFalse(true))
+
+/* Equality Operators */
+
+function testEqual(val){
+  if (val == 12){
+    return "Equal"
+  }
+  return "Not Equal"
+}
+
+console.log(testEqual(10))
+
+/* Few description about differences point between == and ===
+  first, == is equal when the value was same but in case of ===
+  the type should be match.
+  Furthermore, = is assignment sign
+*/
+
+
+/* Comparison with the Strict Equality Operator */
+
+function testStrict(val){
+  if(val ===  10){
+    return "Equal"
+  }
+  return "Not Equal"
+}
+
+testStrict(10)
