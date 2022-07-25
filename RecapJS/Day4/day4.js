@@ -117,3 +117,24 @@ function testStrict(val){
 }
 
 testStrict(10)
+
+/* Practice Comparing Different Values */
+function compareEquality(a,b){
+  if(a==b){
+    return "Equal"
+  }
+  return "Not Equal"
+}
+console.log(compareEquality(10, "10"))
+
+/* And / Or Operator */
+
+function testLogicalAnd(val){
+  if(val){
+    return "Yes"
+  }
+
+  return "No"
+}
+
+testLogicalAnd(10)
