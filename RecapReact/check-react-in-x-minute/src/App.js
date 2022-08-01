@@ -14,7 +14,6 @@ function App() {
       })
       todoNameRef.current.value = null
       console.log(uuidv4())
-
   }
   return (
     <>
@@ -23,6 +22,7 @@ function App() {
       <button onClick={handleAddTodo}>Add todo</button>
       <button>Clear Completed</button>
       <div>0 left todo</div>
+
     </>
 
   )
