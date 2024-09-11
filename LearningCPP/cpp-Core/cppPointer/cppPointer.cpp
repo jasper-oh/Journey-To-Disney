@@ -22,5 +22,8 @@ int main() {
 
     cout << a << " " << b << " " << *b << endl;
 
+    size_t theSize = sizeof(a);
+    cout << theSize << endl;
+
     return 0;
 }
