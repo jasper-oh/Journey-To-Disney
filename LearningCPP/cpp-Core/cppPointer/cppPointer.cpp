@@ -30,6 +30,11 @@ void swapCallByValue (int m, int n) {
 
 int main() {
 
+    /**
+     * Pointer vs Array with swap method
+     *
+     */
+
     // Not working. swapCallByValue just copying the value (Call by value)
     int k = 1;
     int p = 2;
@@ -47,6 +52,21 @@ int main() {
     int x = 11;
     swapPointer(&z, &x);
     cout << z << ' ' << x << endl;
+
+    /**
+     * References
+     *
+     */
+
+
+
+
+
+    /**
+     * Basic pointer concept
+     * - Address of variable
+     * - Deference operator
+     */
 
     int a = 123;
 
