@@ -6,6 +6,12 @@
 
 using namespace std;
 
+void swapReference (int& arg1, int& arg2) {
+    int tmp{arg1};
+    arg1 = arg2;
+    arg2 = tmp;
+}
+
 void swapPointer (int* arg1, int* arg2) {
     int temp = *arg1;
     *arg1 = *arg2;
@@ -54,13 +60,28 @@ int main() {
     cout << z << ' ' << x << endl;
 
     /**
-     * References
+     * References (&)
+     * - An alias (anything done to the reference is done to the referent)
+     * - Must be initialized when created
+     * - Used for efficiency (don't want to make a copy)
      *
-     */
+     * References to constants - We CANNOT create a reference to a tempoerary value
+     *
+     * */
+    int num1{123};
+    // Must be initialized when created
+    int& ref = num1;
+    cout << ref << endl;
+    int num2{345};
+    ref = num2;
+    cout << num1 << endl; // 345
 
+    // int& reference{1}; - Will not compile
+    const int& r{1};
 
-
-
+    int n{12};
+    // long& ref = n; - Won't compile either! - long is bigger than int. types have to be the same.
+    const long& ref1 = n;
 
     /**
      * Basic pointer concept
