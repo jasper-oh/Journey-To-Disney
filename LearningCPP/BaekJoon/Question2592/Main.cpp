@@ -12,16 +12,16 @@ int main() {
     int a = 0;
     int max = 0;
     int maxidx = 0;
-    int* arr = new int[100];
+    int* arrPtr = new int[100];
     for(int i = 0; i < 10; i++) {
         cin >> a;
         sum += a;
-        arr[a / 10] += 1;
+        *(arrPtr + a / 10) += 1;
     }
 
     for(int i = 0; i < 100; i++) {
-        if(max < arr[i]) {
-            max = arr[i];
+        if(max < *(arrPtr + i)) {
+            max = *(arrPtr + i);
             maxidx = i;
         }
     }
@@ -29,7 +29,7 @@ int main() {
     cout << sum / 10 << endl;
     cout << maxidx * 10;
 
-    delete[] arr;
+    delete arrPtr;
 
     return 0;
 }
